@@ -1,0 +1,88 @@
+body {
+  background-image: url("../images/background.jpeg");
+ /* background-repeat: repeat;*/
+  background-size: 100%;
+}
+
+.background{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.icon1{
+  width: 3%;
+  margin-left: 40.5%;
+  margin-top: 3%;
+}
+
+.icon2{
+  width: 3%;
+  margin-left: 5%;
+  margin-top: 3%;
+}
+
+.icon3{
+  width: 3%;
+  margin-left: 5%;
+  margin-top: 3%;
+}
+
+
+.title{
+  text-align: center;
+  position: absolute;
+  margin-left: -3%;
+  margin-top: 9%;
+  cursor: default;
+  display: block;
+  color:dimgrey;
+  font-family: 'Eczar', serif;
+  font-size: 3.5vw;
+  text-size-adjust: auto;
+  width: 30em;
+}
+
+.subtitle{
+  text-align: center;
+  position: absolute;
+  margin-left: 27.2%;
+  margin-top: 13.5%;
+  cursor: default;
+  display: block;
+  color: rgb(68, 68, 68);
+  font-family: 'Eczar', serif;
+  font-size: 1.5vw;
+  text-size-adjust: auto;
+  width: 30em;
+}
+
+.lyric{
+  text-align: center;
+  position: absolute;
+  margin-left: 26.5%;
+  margin-top: 19%;
+  cursor: default;
+  display: block;
+  color: rgb(0, 0, 0);
+  font-family: 'Eczar', serif;
+  font-size: 1.5vw;
+  text-size-adjust: auto;
+  width: 30em;
+  /*animation: type 10s steps(60, end); */
+}
+
+
+.footer p {
+  text-align: center;
+  color: #000000;
+  font-size: 20px;
+  font-family: 'Eczar', serif;
+  background-color: rgba(255, 255, 255, 0.644);
+}
+
+
+
+
+
